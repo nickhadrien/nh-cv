@@ -3,7 +3,7 @@ name = 'nh-cv'
 compatibility_date = '2026-01-14'
 
 [build]
-command = 'hugo --minify'
+command = './build.sh'
 
 [assets]
 directory = './public'
